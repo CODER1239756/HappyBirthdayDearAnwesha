@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site](https://coder1239756.github.io/HappyBirthdayAnya/) 
+👉 [Click here to view the site](https://coder1239756.github.io/HappyBirthdayDearAnwesha/)
 
 ---
 
